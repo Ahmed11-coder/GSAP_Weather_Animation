@@ -1,9 +1,9 @@
-import Settings from "./Components/Setting/Settings"
+import WeatherState from "./Components/WeatherState/WeatherState.tsx"
 
 function App() {
   return (
     <div>
-      <Settings />
+      <WeatherState />
     </div>
   )
 }
